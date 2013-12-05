@@ -1,2 +1,2 @@
-baseballcards-backbonejs-nodejs-mongodb
+baseballcards
 =======================================
