@@ -1,4 +1,4 @@
-# ![BaseballCards](https://raw.github.com/andyfrith/baseball-cards/public/assets/img/BaseballCards.png)
+# ![BaseballCards](https://raw.github.com/andyfrith/baseball-cards/master/public/assets/img/BaseballCards.png)
 
 ## An application demo utilizing Backbone.js, MongoDB, Node.js and Grunt.
 
