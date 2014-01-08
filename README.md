@@ -10,6 +10,10 @@ BaseballCards functionality simply displays baseball cards.  The User Interface 
 
 ![screenshot](https://raw.github.com/andyfrith/baseball-cards/master/public/assets/img/screenshot2.png)
 
+## Live Demo
+
+I'm currently in the process of deploying a live demo to the Heroku cloud computing platform.
+
 ## Version Information
 
 Current Version: 0.01
