@@ -8,6 +8,8 @@ BaseballCards functionality simply displays baseball cards.  The User Interface 
 
 ![screenshot](https://raw.github.com/andyfrith/baseball-cards/master/public/assets/img/screenshot.png)
 
+![screenshot](https://raw.github.com/andyfrith/baseball-cards/master/public/assets/img/screenshot2.png)
+
 ## Version Information
 
 Current Version: 0.01
