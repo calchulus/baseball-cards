@@ -4,7 +4,7 @@
 
 BaseballCards functionality simply displays baseball cards.  The User Interface was developed as a Backbone.js application.  The server architecture is built upon the Node.js plaform.  MongoDB is utilized for a noSQL database implementation.
 
-## Screenshot
+## Screenshots
 
 ![screenshot](https://raw.github.com/andyfrith/baseball-cards/master/public/assets/img/screenshot.png)
 
