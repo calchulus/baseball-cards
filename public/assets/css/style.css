@@ -1,0 +1,46 @@
+/* Sticky footer styles
+-------------------------------------------------- */
+html, body { height: 100%; /* The html and body elements cannot have any padding or margin. */ }
+
+/* Wrapper for page content to push down footer */
+#wrap { min-height: 100%; height: auto; /* Negative indent footer by its height */ margin: 0 auto -60px; /* Pad bottom by footer height */ padding: 0 0 60px; }
+
+/* Set the fixed height of the footer here */
+#footer { height: 60px; background-color: #f5f5f5; }
+
+/* Custom page CSS
+-------------------------------------------------- */
+/* Not required for template or sticky footer method. */
+#wrap > .container { padding: 70px 15px 0; }
+
+.container .text-muted { margin: 20px 0; }
+
+#footer > .container { padding-left: 15px; padding-right: 15px; }
+
+code { font-size: 80%; }
+
+.brand { /*font-family: 'Arvo';*/ font-family: londrina-shadow, sans-serif; }
+
+.starter-template { padding: 40px 15px; text-align: center; }
+
+.pagination { display: table; clear: both; }
+
+a.plain:link { color: #333; text-decoration: none; }
+
+a.plain:active { color: #333; text-decoration: none; }
+
+a.plain:visited { color: #333; text-decoration: none; }
+
+a.plain:hover { color: #333; text-decoration: none; }
+
+.thumbnails { list-style: none; }
+
+.thumbnail { min-width: 260px; height: 242px; }
+
+.thumbnails li { float: left; margin-left: 0px !important; margin-right: 20px !important; }
+
+.thumbnails:after { clear: both; }
+
+.well h3 { margin-top: 0px; margin-bottom: 0px; }
+
+.form-control { width: 250px; }
